@@ -1,0 +1,5 @@
+{
+  "backend": {
+    "baseUrl": "https://8bsa19we00.execute-api.us-west-1.amazonaws.com/dev/"
+  }
+}
