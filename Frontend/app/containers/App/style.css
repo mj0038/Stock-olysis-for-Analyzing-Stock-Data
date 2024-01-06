@@ -1,6 +1,0 @@
-.app-wrapper {
-  width: 80%;
-  @media (max-width: 767px) {
-    width: 100%;
-  }
-}
